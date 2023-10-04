@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e10b8c9-1d64-413e-b0c3-75437a3c969c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/dependabot.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/labeler.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/post_merge_labeler.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/pull_request_label.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/release.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/scorecards-analysis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/Camera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/CameraCaptureCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/CameraDeviceWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/CameraPermissions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/CameraPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/CameraProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/CameraPropertiesImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/CameraRegionUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/CameraState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/CameraUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/DartMessenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/DeviceInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/ImageSaver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/MethodCallHandlerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/SdkCapabilityChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/VideoRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/CameraFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/CameraFeatureFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/CameraFeatureFactoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/CameraFeatures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/autofocus/AutoFocusFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/autofocus/FocusMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/exposurelock/ExposureLockFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/exposurelock/ExposureMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/exposureoffset/ExposureOffsetFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/exposurepoint/ExposurePointFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/flash/FlashFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/flash/FlashMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/focuspoint/FocusPointFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/fpsrange/FpsRangeFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/noisereduction/NoiseReductionFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/noisereduction/NoiseReductionMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/resolution/ResolutionFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/resolution/ResolutionPreset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/sensororientation/DeviceOrientationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/sensororientation/SensorOrientationFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/zoomlevel/ZoomLevelFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/features/zoomlevel/ZoomUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/media/ImageStreamReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/media/ImageStreamReaderUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/media/MediaRecorderBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/types/CameraCaptureProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/types/CaptureTimeoutsWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/types/ExposureMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/types/FlashMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/types/FocusMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/types/ResolutionPreset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/camera/types/Timeout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/CameraCaptureCallbackStatesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/CameraCaptureCallbackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/CameraPermissionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/CameraPropertiesImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/CameraRegionUtils_convertPointToMeteringRectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/CameraRegionUtils_getCameraBoundariesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/CameraTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/CameraTest_getRecordingProfileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/CameraUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/DartMessengerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/ImageSaverTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/MethodCallHandlerImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/autofocus/AutoFocusFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/autofocus/FocusModeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/exposurelock/ExposureLockFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/exposurelock/ExposureModeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/exposureoffset/ExposureOffsetFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/exposurepoint/ExposurePointFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/flash/FlashFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/focuspoint/FocusPointFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/fpsrange/FpsRangeFeaturePixel4aTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/fpsrange/FpsRangeFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/noisereduction/NoiseReductionFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/resolution/ResolutionFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/sensororientation/DeviceOrientationManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/sensororientation/SensorOrientationFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/zoomlevel/ZoomLevelFeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/features/zoomlevel/ZoomUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/media/ImageStreamReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/media/ImageStreamReaderUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/media/MediaRecorderBuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/types/ExposureModeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/types/FlashModeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/types/FocusModeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/java/io/flutter/plugins/camera/utils/TestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/test/resources/robolectric.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.pluginToolsConfig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/androidTest/java/io/flutter/plugins/DartIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/androidTest/java/io/flutter/plugins/cameraexample/FlutterActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/integration_test/camera_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/camera_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/camera_preview.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test_driver/integration_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/camera_android.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/android_camera.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/type_conversion.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/utils.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/android_camera_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/method_channel_mock.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/type_conversion_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/utils_test.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WHx5OQ6beNt9vt06XwPj5rlODa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/camera&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e10b8c9-1d64-413e-b0c3-75437a3c969c" name="Changes" comment="" />
+      <created>1696403124764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696403124764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
